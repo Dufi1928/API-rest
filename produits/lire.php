@@ -53,6 +53,7 @@ else{
 
 
 
+
 //
 //// On vérifie que la méthode utilisée est correcte
 //if($_SERVER['REQUEST_METHOD'] == 'GET'){
